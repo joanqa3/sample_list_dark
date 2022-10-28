@@ -1,0 +1,6 @@
+{
+  "appTitle": "sample_list_dark",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
